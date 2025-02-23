@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConsoleApp.BasicATM/1.0.0": {
+        "runtime": {
+          "ConsoleApp.BasicATM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp.BasicATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
