@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp.BasicATM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d25c508b169c8ce1576ddfc8713e46cca7f66b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebb6cc1b611347cf8349adecddb7bfadfa8f0099")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp.BasicATM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp.BasicATM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
